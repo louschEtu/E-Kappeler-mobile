@@ -21,6 +21,8 @@ DerivedData
 *.ipa
 *.xcuserstate
 
+package-lock.json
+
 # Android/IntelliJ
 #
 build/
